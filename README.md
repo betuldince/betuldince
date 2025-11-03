@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-I’m a Computer Science graduate student at the University of Southern California and student researcher at USC ICT, where my studies are generously supported by the Fulbright, The Promising Turks and Keith Uncapher Scholarships. My educational path began at Koç University in Turkey, where I earned degrees in Electrical & Electronics Engineering and Media & Visual Arts, reflecting my deep interest in blending technology with creative design.
+I’m a Computer Science PhD student at Northeastern University in Boston, working with Prof. Stacy Marsella in the CESAR Lab. My PhD is currently funded through the Fulbright Scholarship, the Promising Turks Grant, and the Keith Uncapher Scholarship. Before Northeastern, I completed an MSc in Computer Science at the University of Southern California and earned dual degrees in Electrical & Electronics Engineering and Media & Visual Arts from Koç University in Istanbul.
 
-My research spans a broad spectrum, including immersive technologies, serious games, human-computer interaction, wearable sensors, and signal processing. This diversity mirrors my belief in the vast potential of technology to not only entertain but also address critical issues in medicine, education, humanitarian efforts, data visualization, and professional fields.
+Right now my research focuses on affective computing, virtual humans, and human–AI interaction. I am building LLM-driven, socially intelligent agents that can support improvisational social-interaction training by combining language with appraisal models, POMDP-style adaptation, and multimodal cues like gaze and gesture. I’m also interested in how immersive and interactive systems (AR/VR, serious games, sensor-based interfaces) can be used for learning, health, and behavior change.
 
-​Driven by the desire to create meaningful societal impact, I am dedicated to developing immersive experiences that are not only engaging but also socially transformative. I am eager to continue exploring how thoughtful application of technology can improve lives and shape a better future.
+I care about making technology actually usable in real settings—hospitals, labs, classrooms, and everyday environments, and I like projects where design, engineering, and research have to work together. Outside work I like bouldering, hiking, and exploring East coast when I can.
 
-I also really enjoy bouldering, hiking, and relaxing at the beautiful beaches around Los Angeles.
-
-Please feel free to reach out to me at bedincer17@gmail.com.
+You can reach me at: bedincer17@gmail.com
 
 <!--
 **betuldince/betuldince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
